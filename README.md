@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fanflora, I am 53 zear old elektrical engineer and working in automotive industrty in a multinational company since 1994.
+- 👋 Hi, I’m @fanflora, I am 53 year old elektrical engineer and working in automotive industrty in a multinational company since 1994.
 - 👀 I’m interested in Python and C++ and assemly languages.
-- 🌱 I’m currently learning data science, Python programming and Robiotic process automation.
-- 💞️ I can speak english.
-- 📫 How to reach me> via e/mail gabor3.benke@gmail.com ..
+- 🌱 I’m currently learning data science, Python programming and Robotic process automation.
+- 💞️ I can speak English and German.
+- 📫 How to reach me> via e/mail gabor3.benke@gmail.com 
 
 <!---
 fanflora/fanflora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
